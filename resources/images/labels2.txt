@@ -1,0 +1,67 @@
+Apple
+Apple Pie
+Banana
+Beef 
+Karahi
+Capsicum
+White Rice 
+Biryani
+Black Cloves
+Bread
+Burger
+Hot Dog
+Cabbage
+Carrot
+Cauliflower
+Kabab
+Cheese
+Chicken
+Chilli Pepper
+Coffee
+Chocolate Cake 
+Corn
+Cucumber
+CupCake
+Lentil
+Donut
+Dumplings
+Egg
+EggPlant
+French Fries
+Garlic
+Ginger
+Grapes
+Kiwi
+Lemon
+Lettuce
+Mango
+Onion
+Okra
+Orange
+Pear
+Peas
+PineApple
+Pizza
+Potato
+Raddish
+Roti
+samosa
+Spinach
+Spring Roll
+Strawberry
+Steak
+Tandoori Naan
+Sushi
+Tea Cup
+Tomato
+Turnip
+Watermelon
+Pomegranate
+Glass of Water
+Unkown
+Dates
+Java Plum
+Almond
+Salt
+Coconut
+Coreander

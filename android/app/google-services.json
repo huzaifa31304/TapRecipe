@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "217179754695",
+    "project_id": "tap-recipe-48a74",
+    "storage_bucket": "tap-recipe-48a74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217179754695:android:aa0b84da86657af57eeee2",
+        "android_client_info": {
+          "package_name": "com.example.tap_recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217179754695-rt07vspchmajiml2154sperqgbihujen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMQGHzCxNcKTvqe7yKQLBBNrIrp7KGSgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217179754695-rt07vspchmajiml2154sperqgbihujen.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "217179754695-8osaqiruh9if9rotp7kvti7p0efmi7jb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tapRecipeFyp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217179754695:android:bcedf4d465aba27f7eeee2",
+        "android_client_info": {
+          "package_name": "com.example.tap_recipe_fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217179754695-rt07vspchmajiml2154sperqgbihujen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMQGHzCxNcKTvqe7yKQLBBNrIrp7KGSgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217179754695-rt07vspchmajiml2154sperqgbihujen.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "217179754695-8osaqiruh9if9rotp7kvti7p0efmi7jb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tapRecipeFyp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
