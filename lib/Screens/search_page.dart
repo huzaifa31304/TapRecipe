@@ -23,7 +23,7 @@ class _SearchPageState extends State<SearchPage> {
   FirebaseFirestore _firestore = FirebaseFirestore.instance;
 
   getApiData(search)async{
-    final url= "https://api.edamam.com/search?q=$search&app_id=61e8bad9&app_key=6904e1bdafc40d222ab62283e396722d&from=0&to=100&calories=591-722&health=alcohol-free";
+    final url= "";
 
     var response = await http.get(Uri.parse(url));
     Map json = jsonDecode(response.body);
